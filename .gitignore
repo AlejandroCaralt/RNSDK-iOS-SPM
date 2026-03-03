@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# SPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcworkspace/
+
+# Binary
+*.xcframework/
+*.zip
